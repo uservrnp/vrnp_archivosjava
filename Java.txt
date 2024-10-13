@@ -1,3 +1,5 @@
 Hello Java comensemos con Git
 
-Pruebas de git por comandos
+iPruebas de git por comandos
+
+Prueba de commit por las lineas de comando
